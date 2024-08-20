@@ -1,16 +1,10 @@
-# flutter_application_1
+# To-Do App
 
-A new Flutter project.
+This is a basic to-do app made in flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# features:
+ - Simple and user friendly UI.
+ - Creating new tasks.
+ - Marking/Unmarking tasks as completed.
+ - Deleting tasks.
+ - Storing data in local device (Using Hive in flutter). 
